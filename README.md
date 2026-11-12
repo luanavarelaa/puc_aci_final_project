@@ -101,4 +101,4 @@ Evaluation on the unseen test sets across all 10 folds demonstrated high diagnos
 
 ## 👩‍💻 Author
 
-Developed by **Luana Varela** — Biomedical Engineering, **Pontifical Catholic University of Campinas (PUC-Campinas)**.
+Developed by **Luana Varela Vacari and Camile de Santis Marques** — Biomedical Engineering, **Pontifical Catholic University of Campinas (PUC-Campinas)**.
